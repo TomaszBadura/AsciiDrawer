@@ -1,7 +1,6 @@
 Usage (in any order):
 [-i value] [-c value] [-s value] [-r value] [-d] [-x] [-nc]
 
-Optional:
 -i :    full/path/to/file or a number (id of webcam)
 -c :    string of characters used to render the gray-scaled pixel value (from lightest to darkest) (default:".-:#$@").
 -nc :   draw without color.
